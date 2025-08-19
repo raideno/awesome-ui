@@ -1,287 +1,259 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/raideno/awesome-website/refs/heads/main/awesome.list.schema.json
-title: "Awesome UI"
-description: "My personal collection of UI resources, libraries and tools."
-author: "Nadir KICHOU"
-
+title: Awesome UI
+description: My personal collection of UI resources, libraries and tools.
+author: Nadir KICHOU
 elements:
-  - name: "Cult UI"
-    description: "Tailwind components and pro UI sections."
+  - name: Cult UI
+    description: Tailwind components and pro UI sections.
     links:
-      - "https://www.cult-ui.com"
-      - "https://pro.cult-ui.com/sections"
+      - https://www.cult-ui.com
+      - https://pro.cult-ui.com/sections
     tags:
-      - "Tailwind"
-      - "Components"
-      - "Pro"
-      - "Sections"
-
-  - name: "React Bits: Gooey Nav"
-    description: "Interactive gooey navigation component."
+      - Tailwind
+      - Components
+      - Pro
+      - Sections
+  - name: 'React Bits: Gooey Nav'
+    description: Interactive gooey navigation component.
     links:
-      - "https://www.reactbits.dev/components/gooey-nav"
+      - https://www.reactbits.dev/components/gooey-nav
     tags:
-      - "React"
-      - "Component"
-
-  - name: "Framer Today: 3D Button"
-    description: "3D button resource for Framer."
+      - React
+      - Component
+  - name: 'Framer Today: 3D Button'
+    description: 3D button resource for Framer.
     links:
-      - "https://framer.today/resources/3d-button"
+      - https://framer.today/resources/3d-button
     tags:
-      - "Framer"
-      - "Component"
-
-  - name: "KokonutUI"
-    description: "UI components and premium sections."
+      - Framer
+      - Component
+  - name: KokonutUI
+    description: UI components and premium sections.
     links:
-      - "https://kokonutui.com"
-      - "https://kokonutui.pro/docs/components/headline"
-      - "https://kokonutui.pro/?utm_source=kokonutui.com&utm_medium=header"
+      - https://kokonutui.com
+      - https://kokonutui.pro/docs/components/headline
+      - https://kokonutui.pro/?utm_source=kokonutui.com&utm_medium=header
     tags:
-      - "Tailwind"
-      - "Components"
-      - "Pro"
-      - "Sections"
-
-  - name: "SmoothUI"
-    description: "UI components and blocks."
+      - Tailwind
+      - Components
+      - Pro
+      - Sections
+  - name: SmoothUI
+    description: UI components and blocks.
     links:
-      - "https://smoothui.dev"
+      - https://smoothui.dev
     tags:
-      - "Components"
-      - "Blocks"
-
-  - name: "Tailark"
-    description: "Premium Tailwind components and UI blocks."
+      - Components
+      - Blocks
+  - name: Tailark
+    description: Premium Tailwind components and UI blocks.
     links:
-      - "https://tailark.com"
-      - "https://pro.tailark.com"
+      - https://tailark.com
+      - https://pro.tailark.com
     tags:
-      - "Tailwind"
-      - "Components"
-      - "Pro"
-      - "Blocks"
-
-  - name: "React Aria"
-    description: "Accessible React primitives by Adobe."
+      - Tailwind
+      - Components
+      - Pro
+      - Blocks
+  - name: React Aria
+    description: Accessible React primitives by Adobe.
     links:
-      - "https://react-spectrum.adobe.com/react-aria/components.html"
+      - https://react-spectrum.adobe.com/react-aria/components.html
     tags:
-      - "React"
-      - "Accessibility"
-      - "ARIA"
-      - "Headless"
-
-  - name: "DevDojo Pines: Navigations"
-    description: "Copy-paste Tailwind + Alpine navigation snippets."
+      - React
+      - Accessibility
+      - ARIA
+      - Headless
+  - name: 'DevDojo Pines: Navigations'
+    description: Copy-paste Tailwind + Alpine navigation snippets.
     links:
-      - "https://devdojo.com/pines/marketing/navigations"
+      - https://devdojo.com/pines/marketing/navigations
     tags:
-      - "Tailwind"
-      - "Alpine"
-      - "Navigation"
-      - "Snippets"
-
-  - name: "daisyUI Store"
-    description: "Premium sections and page templates."
+      - Tailwind
+      - Alpine
+      - Navigation
+      - Snippets
+  - name: daisyUI Store
+    description: Premium sections and page templates.
     links:
-      - "https://daisyui.com/store/"
+      - https://daisyui.com/store/
     tags:
-      - "Tailwind"
-      - "Templates"
-      - "Sections"
-      - "Paid"
-
-  - name: "NextAdmin"
-    description: "Admin dashboard components and templates."
+      - Tailwind
+      - Templates
+      - Sections
+      - Paid
+  - name: NextAdmin
+    description: Admin dashboard components and templates.
     links:
-      - "https://nextadmin.co/pricing"
+      - https://nextadmin.co/pricing
     tags:
-      - "Dashboard"
-      - "Admin"
-      - "Components"
-      - "Templates"
-      - "Paid"
-
-  - name: "Neo Brutalism UI Library"
-    description: "Figma-style brutalist UI kit."
+      - Dashboard
+      - Admin
+      - Components
+      - Templates
+      - Paid
+  - name: Neo Brutalism UI Library
+    description: Figma-style brutalist UI kit.
     links:
-      - "https://neo-brutalism-ui-library.vercel.app"
+      - https://neo-brutalism-ui-library.vercel.app
     tags:
-      - "Design"
-      - "Figma"
-      - "Brutalism"
-      - "UI Kit"
-
-  - name: "WhiteUI: Bruddle"
-    description: "Premium UI kit and templates."
+      - Design
+      - Figma
+      - Brutalism
+      - UI Kit
+  - name: 'WhiteUI: Bruddle'
+    description: Premium UI kit and templates.
     links:
-      - "https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ"
+      - https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
     tags:
-      - "Templates"
-      - "UI Kit"
-      - "Paid"
-
-  - name: "UI Libraries Roundup (YouTube)"
-    description: "Video featuring OriginUI, MVPBlocks, SHSF UI, Kibo UI, and Skiper UI."
+      - Templates
+      - UI Kit
+      - Paid
+  - name: UI Libraries Roundup (YouTube)
+    description: Video featuring OriginUI, MVPBlocks, SHSF UI, Kibo UI, and Skiper UI.
     links:
-      - "https://www.youtube.com/watch?v=kh-QOXuwywg"
+      - https://www.youtube.com/watch?v=kh-QOXuwywg
     tags:
-      - "YouTube"
-      - "Overview"
-
-  - name: "Vercel AI Elements"
-    description: "AI UI components and patterns."
+      - YouTube
+      - Overview
+  - name: Vercel AI Elements
+    description: AI UI components and patterns.
     links:
-      - "https://vercel.com/changelog/introducing-ai-elements"
+      - https://vercel.com/changelog/introducing-ai-elements
     tags:
-      - "AI"
-      - "Components"
-      - "React"
-
-  - name: "Motion Primitives"
-    description: "Composable motion and UI primitives."
+      - AI
+      - Components
+      - React
+  - name: Motion Primitives
+    description: Composable motion and UI primitives.
     links:
-      - "https://motion-primitives.com"
+      - https://motion-primitives.com
     tags:
-      - "Animation"
-      - "Primitives"
-      - "React"
-
-  - name: "Tailwind CSS: UI Kit (Plus)"
-    description: "Themeable headless UI kit from Tailwind."
+      - Animation
+      - Primitives
+      - React
+  - name: 'Tailwind CSS: UI Kit (Plus)'
+    description: Themeable headless UI kit from Tailwind.
     links:
-      - "https://tailwindcss.com/plus/ui-kit"
+      - https://tailwindcss.com/plus/ui-kit
     tags:
-      - "Tailwind"
-      - "Headless"
-      - "Primitives"
-
-  - name: "Animations.dev"
-    description: "Web animations course."
+      - Tailwind
+      - Headless
+      - Primitives
+  - name: Animations.dev
+    description: Web animations course.
     links:
-      - "https://animations.dev"
+      - https://animations.dev
     tags:
-      - "Animation"
-      - "Course"
-
-  - name: "Hover.dev: Buttons"
-    description: "Animated button components."
+      - Animation
+      - Course
+  - name: 'Hover.dev: Buttons'
+    description: Animated button components.
     links:
-      - "https://www.hover.dev/components/buttons"
+      - https://www.hover.dev/components/buttons
     tags:
-      - "Animation"
-      - "Buttons"
-      - "Components"
-
-  - name: "OpenStatus Template"
-    description: "Status page template and UI parts."
+      - Animation
+      - Buttons
+      - Components
+  - name: OpenStatus Template
+    description: Status page template and UI parts.
     links:
-      - "https://template.openstatus.dev"
-      - "https://template.openstatus.dev/dashboard/monitors"
-      - "https://template.openstatus.dev/r/form-card.json"
+      - https://template.openstatus.dev
+      - https://template.openstatus.dev/dashboard/monitors
+      - https://template.openstatus.dev/r/form-card.json
     tags:
-      - "Template"
-      - "Components"
-      - "Status"
-      - "Shadcn"
-
-  - name: "NativeWind UI"
-    description: "UI components for React Native + Tailwind."
+      - Template
+      - Components
+      - Status
+      - Shadcn
+  - name: NativeWind UI
+    description: UI components for React Native + Tailwind.
     links:
-      - "https://nativewindui.com"
+      - https://nativewindui.com
     tags:
-      - "React Native"
-      - "Tailwind"
-      - "Components"
-
-  - name: "React Native Reusables"
-    description: "Reusable UI components for React Native."
+      - React Native
+      - Tailwind
+      - Components
+  - name: React Native Reusables
+    description: Reusable UI components for React Native.
     links:
-      - "https://www.reactnativereusables.com/getting-started/introduction/"
+      - https://www.reactnativereusables.com/getting-started/introduction/
     tags:
-      - "React Native"
-      - "Components"
-
-  - name: "gluestack UI"
-    description: "Cross-platform React Native and Web UI components."
+      - React Native
+      - Components
+  - name: gluestack UI
+    description: Cross-platform React Native and Web UI components.
     links:
-      - "https://gluestack.io"
+      - https://gluestack.io
     tags:
-      - "React Native"
-      - "React"
-      - "Components"
-      - "Design System"
-
-  - name: "NativeWind"
-    description: "Tailwind CSS for React Native."
+      - React Native
+      - React
+      - Components
+      - Design System
+  - name: NativeWind
+    description: Tailwind CSS for React Native.
     links:
-      - "https://www.nativewind.dev"
+      - https://www.nativewind.dev
     tags:
-      - "React Native"
-      - "Tailwind"
-      - "Styling"
-
-  - name: "Tamagui"
-    description: "Cross-platform React Native + Web UI kit."
+      - React Native
+      - Tailwind
+      - Styling
+  - name: Tamagui
+    description: Cross-platform React Native + Web UI kit.
     links:
-      - "https://tamagui.dev"
+      - https://tamagui.dev
     tags:
-      - "React Native"
-      - "React"
-      - "UI Kit"
-      - "Styling"
-
-  - name: "React Native Paper"
-    description: "Material Design components for React Native."
+      - React Native
+      - React
+      - UI Kit
+      - Styling
+  - name: React Native Paper
+    description: Material Design components for React Native.
     links:
-      - "https://reactnativepaper.com"
+      - https://reactnativepaper.com
     tags:
-      - "React Native"
-      - "Material"
-      - "Components"
-
-  - name: "React Native Elements"
-    description: "Cross-platform React Native UI toolkit."
+      - React Native
+      - Material
+      - Components
+  - name: React Native Elements
+    description: Cross-platform React Native UI toolkit.
     links:
-      - "https://reactnativeelements.com"
+      - https://reactnativeelements.com
     tags:
-      - "React Native"
-      - "Components"
-      - "UI Kit"
-
-  - name: "Unistyles"
-    description: "Styling system for React Native."
+      - React Native
+      - Components
+      - UI Kit
+  - name: Unistyles
+    description: Styling system for React Native.
     links:
-      - "https://www.unistyl.es"
+      - https://www.unistyl.es
     tags:
-      - "React Native"
-      - "Styling"
-
-  - name: "Legend State"
-    description: "Local-first state management for React and React Native."
+      - React Native
+      - Styling
+  - name: Legend State
+    description: Local-first state management for React and React Native.
     links:
-      - "https://github.com/LegendApp/legend-state"
+      - https://github.com/LegendApp/legend-state
     tags:
-      - "State"
-      - "React"
-      - "React Native"
-      - "Local-first"
-      - "Open Source"
-
-  - name: "React Native Tools (YouTube)"
-    description: "Overview of UI, testing, and tooling for React Native."
+      - State
+      - React
+      - React Native
+      - Local-first
+      - Open Source
+  - name: React Native Tools (YouTube)
+    description: Overview of UI, testing, and tooling for React Native.
     links:
-      - "https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s"
+      - https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
     tags:
-      - "React Native"
-      - "YouTube"
-      - "Tools"
-
-  - name: "PatternCraft"
-    description: "Pattern generator for backgrounds."
+      - React Native
+      - YouTube
+      - Tools
+  - name: PatternCraft
+    description: Pattern generator for backgrounds.
     links:
-      - "https://patterncraft.fun"
+      - https://patterncraft.fun
     tags:
-      - "Design"
-      - "Patterns"
+      - Design
+      - Patterns
+thumbnail: ''
+links:
+  - https://raideno.xyz
