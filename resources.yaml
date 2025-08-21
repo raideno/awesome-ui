@@ -1,6 +1,7 @@
 title: Awesome UI
 description: My personal collection of UI resources, libraries and tools.
 author: Nadir KICHOU
+thumbnail: ''
 elements:
   - name: Cult UI
     description: Tailwind components and pro UI sections.
@@ -254,6 +255,13 @@ elements:
     tags:
       - Design
       - Patterns
-thumbnail: ''
+  - name: Radix Example Sites
+    description: A list of example websites built with radix ui theme.
+    notes: Good for inspiration.
+    links:
+      - https://godly.website/websites/radix-ui
+    tags:
+      - radix-ui
+      - radix
 links:
   - https://raideno.xyz
