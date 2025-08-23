@@ -263,5 +263,13 @@ elements:
     tags:
       - radix-ui
       - radix
+  - name: AI Chat UI
+    description: A collection of components for AI Chat assistants.
+    notes: ''
+    links:
+      - https://www.assistant-ui.com/
+    tags:
+      - Pro
+      - Web
 links:
   - https://raideno.xyz
