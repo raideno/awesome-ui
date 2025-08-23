@@ -271,5 +271,15 @@ elements:
     tags:
       - Pro
       - Web
+  - name: Shadcn Block Collections
+    description: I discovered it while searching for a Before / After image component.
+    notes: ''
+    links:
+      - https://www.twblocks.com/blocks
+    tags:
+      - Web
+      - Blocks
+      - Tailwind
+      - Shadcn
 links:
   - https://raideno.xyz
