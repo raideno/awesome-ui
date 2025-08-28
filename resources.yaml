@@ -281,5 +281,15 @@ elements:
       - Blocks
       - Tailwind
       - Shadcn
+  - name: Shadcn Like Components
+    description: Shadcn based components.
+    notes: ''
+    links:
+      - https://www.shadcn.io/components/image/image-crop
+    tags:
+      - React
+      - Component
+      - Tailwind
+      - Shadcn
 links:
   - https://raideno.xyz
