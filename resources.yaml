@@ -291,5 +291,15 @@ elements:
       - Component
       - Tailwind
       - Shadcn
+  - name: TweakCN
+    description: A collection of shadcn themes that are all customizable.
+    notes: ''
+    links:
+      - https://tweakcn.com/
+    tags:
+      - React
+      - Shadcn
+      - Tailwind
+      - Web
 links:
   - https://raideno.xyz
