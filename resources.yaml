@@ -301,5 +301,14 @@ elements:
       - Shadcn
       - Tailwind
       - Web
+  - name: ElevenLabs Audio Components
+    description: ''
+    notes: ''
+    links:
+      - https://ui.elevenlabs.io/docs/setup
+    tags:
+      - React
+      - Shadcn
+      - Component
 links:
   - https://raideno.xyz
