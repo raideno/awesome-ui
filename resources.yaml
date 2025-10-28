@@ -312,5 +312,15 @@ elements:
       - React
       - Shadcn
       - Component
+  - name: Data Grid
+    description: Editable data grid using shadcn and tanstack-table.
+    notes: ''
+    links:
+      - https://www.diceui.com/docs/components/data-grid
+    tags:
+      - Tailwind
+      - React
+      - Shadcn
+    group: react
 links:
   - https://raideno.xyz
