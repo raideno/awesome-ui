@@ -1,9 +1,6 @@
-# yaml-language-server: https://raw.githubusercontent.com/raideno/awesome-website/refs/heads/main/awesome.list.schema.json
 title: Awesome UI
-author: Nadir KICHOU
 description: My personal collection of UI resources, libraries and tools.
-links:
-  - https://raideno.xyz
+author: Nadir KICHOU
 elements:
   - name: Cult UI
     description: Tailwind components and pro UI sections.
@@ -13,13 +10,13 @@ elements:
       - Components
       - Pro
       - Sections
-  - name: "React Bits: Gooey Nav"
+  - name: 'React Bits: Gooey Nav'
     description: Interactive gooey navigation component.
     link: https://www.reactbits.dev/components/gooey-nav
     tags:
       - React
       - Component
-  - name: "Framer Today: 3D Button"
+  - name: 'Framer Today: 3D Button'
     description: 3D button resource for Framer.
     link: https://framer.today/resources/3d-button
     tags:
@@ -55,7 +52,7 @@ elements:
       - Accessibility
       - ARIA
       - Headless
-  - name: "DevDojo Pines: Navigations"
+  - name: 'DevDojo Pines: Navigations'
     description: Copy-paste Tailwind + Alpine navigation snippets.
     link: https://devdojo.com/pines/marketing/navigations
     tags:
@@ -88,7 +85,7 @@ elements:
       - Figma
       - Brutalism
       - UI Kit
-  - name: "WhiteUI: Bruddle"
+  - name: 'WhiteUI: Bruddle'
     description: Premium UI kit and templates.
     link: https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
     tags:
@@ -115,7 +112,7 @@ elements:
       - Animation
       - Primitives
       - React
-  - name: "Tailwind CSS: UI Kit (Plus)"
+  - name: 'Tailwind CSS: UI Kit (Plus)'
     description: Themeable headless UI kit from Tailwind.
     link: https://tailwindcss.com/plus/ui-kit
     tags:
@@ -128,7 +125,7 @@ elements:
     tags:
       - Animation
       - Course
-  - name: "Hover.dev: Buttons"
+  - name: 'Hover.dev: Buttons'
     description: Animated button components.
     link: https://www.hover.dev/components/buttons
     tags:
@@ -231,14 +228,14 @@ elements:
       - radix
   - name: AI Chat UI
     description: A collection of components for AI Chat assistants.
-    notes: ""
+    notes: ''
     link: https://www.assistant-ui.com/
     tags:
       - Pro
       - Web
   - name: Shadcn Block Collections
     description: I discovered it while searching for a Before / After image component.
-    notes: ""
+    notes: ''
     link: https://www.twblocks.com/blocks
     tags:
       - Web
@@ -247,7 +244,7 @@ elements:
       - Shadcn
   - name: Shadcn Like Components
     description: Shadcn based components.
-    notes: ""
+    notes: ''
     link: https://www.shadcn.io/components/image/image-crop
     tags:
       - React
@@ -256,7 +253,7 @@ elements:
       - Shadcn
   - name: TweakCN
     description: A collection of shadcn themes that are all customizable.
-    notes: ""
+    notes: ''
     link: https://tweakcn.com/
     tags:
       - React
@@ -265,8 +262,8 @@ elements:
       - Web
     group: React
   - name: ElevenLabs Audio Components
-    description: ""
-    notes: ""
+    description: ''
+    notes: ''
     link: https://ui.elevenlabs.io/docs/setup
     tags:
       - React
@@ -274,10 +271,12 @@ elements:
       - Component
   - name: Data Grid
     description: Editable data grid using shadcn and tanstack-table.
-    notes: ""
+    notes: ''
     link: https://www.diceui.com/docs/components/data-grid
     tags:
       - Tailwind
       - React
       - Shadcn
     group: react
+links:
+  - https://raideno.xyz
