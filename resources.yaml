@@ -1,5 +1,6 @@
 # yaml-language-server: https://raw.githubusercontent.com/raideno/awesome-website/refs/heads/main/awesome.list.schema.json
 title: Awesome UI
+author: Nadir KICHOU
 description: My personal collection of UI resources, libraries and tools.
 links:
   - https://raideno.xyz
