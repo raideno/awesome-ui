@@ -1,38 +1,32 @@
+# yaml-language-server: https://raw.githubusercontent.com/raideno/awesome-website/refs/heads/main/awesome.list.schema.json
 title: Awesome UI
 description: My personal collection of UI resources, libraries and tools.
-author: Nadir KICHOU
-thumbnail: ''
+links:
+  - https://raideno.xyz
 elements:
   - name: Cult UI
     description: Tailwind components and pro UI sections.
-    links:
-      - https://www.cult-ui.com
-      - https://pro.cult-ui.com/sections
+    link: https://www.cult-ui.com
     tags:
       - Tailwind
       - Components
       - Pro
       - Sections
-  - name: 'React Bits: Gooey Nav'
+  - name: "React Bits: Gooey Nav"
     description: Interactive gooey navigation component.
-    links:
-      - https://www.reactbits.dev/components/gooey-nav
+    link: https://www.reactbits.dev/components/gooey-nav
     tags:
       - React
       - Component
-  - name: 'Framer Today: 3D Button'
+  - name: "Framer Today: 3D Button"
     description: 3D button resource for Framer.
-    links:
-      - https://framer.today/resources/3d-button
+    link: https://framer.today/resources/3d-button
     tags:
       - Framer
       - Component
   - name: KokonutUI
     description: UI components and premium sections.
-    links:
-      - https://kokonutui.com
-      - https://kokonutui.pro/docs/components/headline
-      - https://kokonutui.pro/?utm_source=kokonutui.com&utm_medium=header
+    link: https://kokonutui.com
     tags:
       - Tailwind
       - Components
@@ -40,16 +34,13 @@ elements:
       - Sections
   - name: SmoothUI
     description: UI components and blocks.
-    links:
-      - https://smoothui.dev
+    link: https://smoothui.dev
     tags:
       - Components
       - Blocks
   - name: Tailark
     description: Premium Tailwind components and UI blocks.
-    links:
-      - https://tailark.com
-      - https://pro.tailark.com
+    link: https://tailark.com
     tags:
       - Tailwind
       - Components
@@ -57,17 +48,15 @@ elements:
       - Blocks
   - name: React Aria
     description: Accessible React primitives by Adobe.
-    links:
-      - https://react-spectrum.adobe.com/react-aria/components.html
+    link: https://react-spectrum.adobe.com/react-aria/components.html
     tags:
       - React
       - Accessibility
       - ARIA
       - Headless
-  - name: 'DevDojo Pines: Navigations'
+  - name: "DevDojo Pines: Navigations"
     description: Copy-paste Tailwind + Alpine navigation snippets.
-    links:
-      - https://devdojo.com/pines/marketing/navigations
+    link: https://devdojo.com/pines/marketing/navigations
     tags:
       - Tailwind
       - Alpine
@@ -75,8 +64,7 @@ elements:
       - Snippets
   - name: daisyUI Store
     description: Premium sections and page templates.
-    links:
-      - https://daisyui.com/store/
+    link: https://daisyui.com/store/
     tags:
       - Tailwind
       - Templates
@@ -84,8 +72,7 @@ elements:
       - Paid
   - name: NextAdmin
     description: Admin dashboard components and templates.
-    links:
-      - https://nextadmin.co/pricing
+    link: https://nextadmin.co/pricing
     tags:
       - Dashboard
       - Admin
@@ -94,73 +81,62 @@ elements:
       - Paid
   - name: Neo Brutalism UI Library
     description: Figma-style brutalist UI kit.
-    links:
-      - https://neo-brutalism-ui-library.vercel.app
+    link: https://neo-brutalism-ui-library.vercel.app
     tags:
       - Design
       - Figma
       - Brutalism
       - UI Kit
-  - name: 'WhiteUI: Bruddle'
+  - name: "WhiteUI: Bruddle"
     description: Premium UI kit and templates.
-    links:
-      - https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
+    link: https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
     tags:
       - Templates
       - UI Kit
       - Paid
   - name: UI Libraries Roundup (YouTube)
     description: Video featuring OriginUI, MVPBlocks, SHSF UI, Kibo UI, and Skiper UI.
-    links:
-      - https://www.youtube.com/watch?v=kh-QOXuwywg
+    link: https://www.youtube.com/watch?v=kh-QOXuwywg
     tags:
       - YouTube
       - Overview
   - name: Vercel AI Elements
     description: AI UI components and patterns.
-    links:
-      - https://vercel.com/changelog/introducing-ai-elements
+    link: https://vercel.com/changelog/introducing-ai-elements
     tags:
       - AI
       - Components
       - React
   - name: Motion Primitives
     description: Composable motion and UI primitives.
-    links:
-      - https://motion-primitives.com
+    link: https://motion-primitives.com
     tags:
       - Animation
       - Primitives
       - React
-  - name: 'Tailwind CSS: UI Kit (Plus)'
+  - name: "Tailwind CSS: UI Kit (Plus)"
     description: Themeable headless UI kit from Tailwind.
-    links:
-      - https://tailwindcss.com/plus/ui-kit
+    link: https://tailwindcss.com/plus/ui-kit
     tags:
       - Tailwind
       - Headless
       - Primitives
   - name: Animations.dev
     description: Web animations course.
-    links:
-      - https://animations.dev
+    link: https://animations.dev
     tags:
       - Animation
       - Course
-  - name: 'Hover.dev: Buttons'
+  - name: "Hover.dev: Buttons"
     description: Animated button components.
-    links:
-      - https://www.hover.dev/components/buttons
+    link: https://www.hover.dev/components/buttons
     tags:
       - Animation
       - Buttons
       - Components
   - name: OpenStatus Template
     description: Status page template and UI parts.
-    links:
-      - https://template.openstatus.dev
-      - https://template.openstatus.dev/dashboard/monitors
-      - https://template.openstatus.dev/r/form-card.json
+    link: https://template.openstatus.dev
     tags:
       - Template
       - Components
@@ -168,8 +144,7 @@ elements:
       - Shadcn
   - name: NativeWind UI
     description: UI components for React Native + Tailwind.
-    links:
-      - https://nativewindui.com
+    link: https://nativewindui.com
     tags:
       - React Native
       - Tailwind
@@ -177,15 +152,13 @@ elements:
     group: React Native
   - name: React Native Reusables
     description: Reusable UI components for React Native.
-    links:
-      - https://www.reactnativereusables.com/getting-started/introduction/
+    link: https://www.reactnativereusables.com/getting-started/introduction/
     tags:
       - React Native
       - Components
   - name: gluestack UI
     description: Cross-platform React Native and Web UI components.
-    links:
-      - https://gluestack.io
+    link: https://gluestack.io
     tags:
       - React Native
       - React
@@ -193,16 +166,14 @@ elements:
       - Design System
   - name: NativeWind
     description: Tailwind CSS for React Native.
-    links:
-      - https://www.nativewind.dev
+    link: https://www.nativewind.dev
     tags:
       - React Native
       - Tailwind
       - Styling
   - name: Tamagui
     description: Cross-platform React Native + Web UI kit.
-    links:
-      - https://tamagui.dev
+    link: https://tamagui.dev
     tags:
       - React Native
       - React
@@ -210,31 +181,27 @@ elements:
       - Styling
   - name: React Native Paper
     description: Material Design components for React Native.
-    links:
-      - https://reactnativepaper.com
+    link: https://reactnativepaper.com
     tags:
       - React Native
       - Material
       - Components
   - name: React Native Elements
     description: Cross-platform React Native UI toolkit.
-    links:
-      - https://reactnativeelements.com
+    link: https://reactnativeelements.com
     tags:
       - React Native
       - Components
       - UI Kit
   - name: Unistyles
     description: Styling system for React Native.
-    links:
-      - https://www.unistyl.es
+    link: https://www.unistyl.es
     tags:
       - React Native
       - Styling
   - name: Legend State
     description: Local-first state management for React and React Native.
-    links:
-      - https://github.com/LegendApp/legend-state
+    link: https://github.com/LegendApp/legend-state
     tags:
       - State
       - React
@@ -243,40 +210,35 @@ elements:
       - Open Source
   - name: React Native Tools (YouTube)
     description: Overview of UI, testing, and tooling for React Native.
-    links:
-      - https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
+    link: https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
     tags:
       - React Native
       - YouTube
       - Tools
   - name: PatternCraft
     description: Pattern generator for backgrounds.
-    links:
-      - https://patterncraft.fun
+    link: https://patterncraft.fun
     tags:
       - Design
       - Patterns
   - name: Radix Example Sites
     description: A list of example websites built with radix ui theme.
     notes: Good for inspiration.
-    links:
-      - https://godly.website/websites/radix-ui
+    link: https://godly.website/websites/radix-ui
     tags:
       - radix-ui
       - radix
   - name: AI Chat UI
     description: A collection of components for AI Chat assistants.
-    notes: ''
-    links:
-      - https://www.assistant-ui.com/
+    notes: ""
+    link: https://www.assistant-ui.com/
     tags:
       - Pro
       - Web
   - name: Shadcn Block Collections
     description: I discovered it while searching for a Before / After image component.
-    notes: ''
-    links:
-      - https://www.twblocks.com/blocks
+    notes: ""
+    link: https://www.twblocks.com/blocks
     tags:
       - Web
       - Blocks
@@ -284,9 +246,8 @@ elements:
       - Shadcn
   - name: Shadcn Like Components
     description: Shadcn based components.
-    notes: ''
-    links:
-      - https://www.shadcn.io/components/image/image-crop
+    notes: ""
+    link: https://www.shadcn.io/components/image/image-crop
     tags:
       - React
       - Component
@@ -294,9 +255,8 @@ elements:
       - Shadcn
   - name: TweakCN
     description: A collection of shadcn themes that are all customizable.
-    notes: ''
-    links:
-      - https://tweakcn.com/
+    notes: ""
+    link: https://tweakcn.com/
     tags:
       - React
       - Shadcn
@@ -304,23 +264,19 @@ elements:
       - Web
     group: React
   - name: ElevenLabs Audio Components
-    description: ''
-    notes: ''
-    links:
-      - https://ui.elevenlabs.io/docs/setup
+    description: ""
+    notes: ""
+    link: https://ui.elevenlabs.io/docs/setup
     tags:
       - React
       - Shadcn
       - Component
   - name: Data Grid
     description: Editable data grid using shadcn and tanstack-table.
-    notes: ''
-    links:
-      - https://www.diceui.com/docs/components/data-grid
+    notes: ""
+    link: https://www.diceui.com/docs/components/data-grid
     tags:
       - Tailwind
       - React
       - Shadcn
     group: react
-links:
-  - https://raideno.xyz
