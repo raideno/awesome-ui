@@ -4,13 +4,13 @@ author: Nadir KICHOU
 elements:
   - name: Cult UI
     description: Tailwind components and pro UI sections.
+    notes: ''
     link: https://www.cult-ui.com
     tags:
       - Tailwind
       - Components
       - Pro
       - Sections
-    notes: ''
   - name: 'React Bits: Gooey Nav'
     description: Interactive gooey navigation component.
     notes: ''
@@ -74,6 +74,7 @@ elements:
       - Paid
   - name: NextAdmin
     description: Admin dashboard components and templates.
+    notes: ''
     link: https://nextadmin.co/pricing
     tags:
       - Dashboard
@@ -81,7 +82,6 @@ elements:
       - Components
       - Templates
       - Paid
-    notes: ''
   - name: Neo Brutalism UI Library
     description: Figma-style brutalist UI kit.
     link: https://neo-brutalism-ui-library.vercel.app
@@ -149,17 +149,17 @@ elements:
       - Shadcn
   - name: NativeWind UI
     description: UI components for React Native + Tailwind.
+    notes: |-
+      Hello. We are testing this $x = y$.\
+      So I am writing in here.
+
+      This is a text and I am trying to exit.
     link: https://nativewindui.com
     tags:
       - React Native
       - Tailwind
       - Components
     group: React Native
-    notes: |-
-      Hello. We are testing this $x = y$.\
-      So I am writing in here.
-
-      This is a text and I am trying to exit.
   - name: React Native Reusables
     description: Reusable UI components for React Native.
     link: https://www.reactnativereusables.com/getting-started/introduction/
