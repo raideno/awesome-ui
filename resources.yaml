@@ -10,13 +10,15 @@ elements:
       - Components
       - Pro
       - Sections
+    notes: ''
   - name: 'React Bits: Gooey Nav'
     description: Interactive gooey navigation component.
+    notes: ''
     link: https://www.reactbits.dev/components/gooey-nav
     tags:
       - React
       - Component
-    notes: ''
+    group: React
   - name: 'Framer Today: 3D Button'
     description: 3D button resource for Framer.
     link: https://framer.today/resources/3d-button
@@ -53,6 +55,7 @@ elements:
       - Accessibility
       - ARIA
       - Headless
+    group: React
   - name: 'DevDojo Pines: Navigations'
     description: Copy-paste Tailwind + Alpine navigation snippets.
     link: https://devdojo.com/pines/marketing/navigations
@@ -78,6 +81,7 @@ elements:
       - Components
       - Templates
       - Paid
+    notes: ''
   - name: Neo Brutalism UI Library
     description: Figma-style brutalist UI kit.
     link: https://neo-brutalism-ui-library.vercel.app
@@ -106,6 +110,7 @@ elements:
       - AI
       - Components
       - React
+    group: React
   - name: Motion Primitives
     description: Composable motion and UI primitives.
     link: https://motion-primitives.com
@@ -113,6 +118,7 @@ elements:
       - Animation
       - Primitives
       - React
+    group: React
   - name: 'Tailwind CSS: UI Kit (Plus)'
     description: Themeable headless UI kit from Tailwind.
     link: https://tailwindcss.com/plus/ui-kit
@@ -149,12 +155,18 @@ elements:
       - Tailwind
       - Components
     group: React Native
+    notes: |-
+      Hello. We are testing this $x = y$.\
+      So I am writing in here.
+
+      This is a text and I am trying to exit.
   - name: React Native Reusables
     description: Reusable UI components for React Native.
     link: https://www.reactnativereusables.com/getting-started/introduction/
     tags:
       - React Native
       - Components
+    group: React Native
   - name: gluestack UI
     description: Cross-platform React Native and Web UI components.
     link: https://gluestack.io
@@ -170,6 +182,7 @@ elements:
       - React Native
       - Tailwind
       - Styling
+    group: React Native
   - name: Tamagui
     description: Cross-platform React Native + Web UI kit.
     link: https://tamagui.dev
@@ -185,6 +198,7 @@ elements:
       - React Native
       - Material
       - Components
+    group: React Native
   - name: React Native Elements
     description: Cross-platform React Native UI toolkit.
     link: https://reactnativeelements.com
@@ -192,14 +206,17 @@ elements:
       - React Native
       - Components
       - UI Kit
+    group: React Native
   - name: Unistyles
     description: Styling system for React Native.
     link: https://www.unistyl.es
     tags:
       - React Native
       - Styling
+    group: React Native
   - name: Legend State
     description: Local-first state management for React and React Native.
+    notes: ''
     link: https://github.com/LegendApp/legend-state
     tags:
       - State
@@ -207,7 +224,6 @@ elements:
       - React Native
       - Local-first
       - Open Source
-    notes: ''
   - name: React Native Tools (YouTube)
     description: Overview of UI, testing, and tooling for React Native.
     link: https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
@@ -215,6 +231,7 @@ elements:
       - React Native
       - YouTube
       - Tools
+    group: React Native
   - name: PatternCraft
     description: Pattern generator for backgrounds.
     link: https://patterncraft.fun
@@ -253,9 +270,10 @@ elements:
       - Component
       - Tailwind
       - Shadcn
+    group: React
   - name: TweakCN
     description: A collection of shadcn themes that are all customizable.
-    notes: ''
+    notes: abcdef persistance ?
     link: https://tweakcn.com/
     tags:
       - React
@@ -271,9 +289,10 @@ elements:
       - React
       - Shadcn
       - Component
+    group: React
   - name: Data Grid
     description: Editable data grid using shadcn and tanstack-table.
-    notes: ''
+    notes: dsqdqs
     link: https://www.diceui.com/docs/components/data-grid
     tags:
       - Tailwind
