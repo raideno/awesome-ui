@@ -16,6 +16,7 @@ elements:
     tags:
       - React
       - Component
+    notes: ''
   - name: 'Framer Today: 3D Button'
     description: 3D button resource for Framer.
     link: https://framer.today/resources/3d-button
@@ -206,6 +207,7 @@ elements:
       - React Native
       - Local-first
       - Open Source
+    notes: ''
   - name: React Native Tools (YouTube)
     description: Overview of UI, testing, and tooling for React Native.
     link: https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
@@ -277,6 +279,6 @@ elements:
       - Tailwind
       - React
       - Shadcn
-    group: react
+    group: React
 links:
   - https://raideno.xyz
