@@ -33,12 +33,14 @@ elements:
       - Components
       - Pro
       - Sections
+    group: React
   - name: SmoothUI
     description: UI components and blocks.
     link: https://smoothui.dev
     tags:
       - Components
       - Blocks
+    group: React
   - name: Tailark
     description: Premium Tailwind components and UI blocks.
     link: https://tailark.com
@@ -47,6 +49,7 @@ elements:
       - Components
       - Pro
       - Blocks
+    group: React
   - name: React Aria
     description: Accessible React primitives by Adobe.
     link: https://react-spectrum.adobe.com/react-aria/components.html
@@ -56,7 +59,7 @@ elements:
       - ARIA
       - Headless
     group: React
-  - name: 'DevDojo Pines: Navigations'
+  - name: Tailwind
     description: Copy-paste Tailwind + Alpine navigation snippets.
     link: https://devdojo.com/pines/marketing/navigations
     tags:
@@ -64,14 +67,15 @@ elements:
       - Alpine
       - Navigation
       - Snippets
+    group: Html
   - name: daisyUI Store
     description: Premium sections and page templates.
     link: https://daisyui.com/store/
     tags:
-      - Tailwind
-      - Templates
       - Sections
       - Paid
+      - ⭐⭐⭐⭐⭐
+    group: Html
   - name: NextAdmin
     description: Admin dashboard components and templates.
     notes: ''
@@ -90,6 +94,7 @@ elements:
       - Figma
       - Brutalism
       - UI Kit
+    group: Html
   - name: 'WhiteUI: Bruddle'
     description: Premium UI kit and templates.
     link: https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
@@ -97,6 +102,7 @@ elements:
       - Templates
       - UI Kit
       - Paid
+    group: Ui
   - name: UI Libraries Roundup (YouTube)
     description: Video featuring OriginUI, MVPBlocks, SHSF UI, Kibo UI, and Skiper UI.
     link: https://www.youtube.com/watch?v=kh-QOXuwywg
@@ -132,6 +138,7 @@ elements:
     tags:
       - Animation
       - Course
+    group: Utilities
   - name: 'Hover.dev: Buttons'
     description: Animated button components.
     link: https://www.hover.dev/components/buttons
@@ -175,6 +182,7 @@ elements:
       - React
       - Components
       - Design System
+    group: React Native
   - name: NativeWind
     description: Tailwind CSS for React Native.
     link: https://www.nativewind.dev
@@ -191,6 +199,7 @@ elements:
       - React
       - UI Kit
       - Styling
+    group: React Native
   - name: React Native Paper
     description: Material Design components for React Native.
     link: https://reactnativepaper.com
@@ -224,6 +233,7 @@ elements:
       - React Native
       - Local-first
       - Open Source
+    group: Utilities
   - name: React Native Tools (YouTube)
     description: Overview of UI, testing, and tooling for React Native.
     link: https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
@@ -238,6 +248,7 @@ elements:
     tags:
       - Design
       - Patterns
+    group: Utilities
   - name: Radix Example Sites
     description: A list of example websites built with radix ui theme.
     notes: Good for inspiration.
