@@ -46,9 +46,9 @@ elements:
     link: https://tailark.com
     tags:
       - Tailwind
-      - Components
       - Pro
       - Blocks
+      - ⭐⭐⭐⭐⭐
     group: React
   - name: React Aria
     description: Accessible React primitives by Adobe.
@@ -76,6 +76,7 @@ elements:
       - Paid
       - ⭐⭐⭐⭐⭐
     group: Html
+    notes: ''
   - name: NextAdmin
     description: Admin dashboard components and templates.
     notes: ''
