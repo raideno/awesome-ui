@@ -70,13 +70,13 @@ elements:
     group: Html
   - name: daisyUI Store
     description: Premium sections and page templates.
+    notes: ''
     link: https://daisyui.com/store/
     tags:
       - Sections
       - Paid
       - ⭐⭐⭐⭐⭐
     group: Html
-    notes: ''
   - name: NextAdmin
     description: Admin dashboard components and templates.
     notes: ''
@@ -309,6 +309,15 @@ elements:
     tags:
       - Tailwind
       - React
+      - Shadcn
+    group: React
+  - name: Text Effects
+    description: A collection of text effects components, shadcn like.
+    notes: ''
+    link: https://www.shadcn.io/text/flip-words
+    tags:
+      - React
+      - Component
       - Shadcn
     group: React
 links:
