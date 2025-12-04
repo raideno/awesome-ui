@@ -320,5 +320,15 @@ elements:
       - Component
       - Shadcn
     group: React
+  - name: Oxbowui
+    description: A collection of pages, templates and blocks.
+    notes: ''
+    link: https://oxbowui.com/
+    tags:
+      - Web
+      - Blocks
+      - Templates
+      - Tailwind
+    group: Html
 links:
   - https://raideno.xyz
