@@ -2,7 +2,8 @@ title: Awesome UI
 description: My personal collection of UI resources, libraries and tools.
 author: Nadir KICHOU
 elements:
-  - name: Cult UI
+  - id: "1",
+    name: Cult UI
     description: Tailwind components and pro UI sections.
     notes: ''
     link: https://www.cult-ui.com
@@ -11,7 +12,8 @@ elements:
       - Components
       - Pro
       - Sections
-  - name: 'React Bits: Gooey Nav'
+  - id: "2"
+    name: 'React Bits: Gooey Nav'
     description: Interactive gooey navigation component.
     notes: ''
     link: https://www.reactbits.dev/components/gooey-nav
@@ -19,13 +21,15 @@ elements:
       - React
       - Component
     group: React
-  - name: 'Framer Today: 3D Button'
+  - id: "3"
+    name: 'Framer Today: 3D Button'
     description: 3D button resource for Framer.
     link: https://framer.today/resources/3d-button
     tags:
       - Framer
       - Component
-  - name: KokonutUI
+  - id: "4"
+    name: KokonutUI
     description: UI components and premium sections.
     link: https://kokonutui.com
     tags:
@@ -34,14 +38,16 @@ elements:
       - Pro
       - Sections
     group: React
-  - name: SmoothUI
+  - id: "5"
+    name: SmoothUI
     description: UI components and blocks.
     link: https://smoothui.dev
     tags:
       - Components
       - Blocks
     group: React
-  - name: Tailark
+  - id: "6"
+    name: Tailark
     description: Premium Tailwind components and UI blocks.
     link: https://tailark.com
     tags:
@@ -50,7 +56,8 @@ elements:
       - Blocks
       - ⭐⭐⭐⭐⭐
     group: React
-  - name: React Aria
+  - id: "7"
+    name: React Aria
     description: Accessible React primitives by Adobe.
     link: https://react-spectrum.adobe.com/react-aria/components.html
     tags:
@@ -59,7 +66,8 @@ elements:
       - ARIA
       - Headless
     group: React
-  - name: Tailwind
+  - id: "8"
+    name: Tailwind
     description: Copy-paste Tailwind + Alpine navigation snippets.
     link: https://devdojo.com/pines/marketing/navigations
     tags:
@@ -68,7 +76,8 @@ elements:
       - Navigation
       - Snippets
     group: Html
-  - name: daisyUI Store
+  - id: "9"
+    name: daisyUI Store
     description: Premium sections and page templates.
     notes: ''
     link: https://daisyui.com/store/
@@ -77,7 +86,8 @@ elements:
       - Paid
       - ⭐⭐⭐⭐⭐
     group: Html
-  - name: NextAdmin
+  - id: "10"
+    name: NextAdmin
     description: Admin dashboard components and templates.
     notes: ''
     link: https://nextadmin.co/pricing
@@ -87,7 +97,8 @@ elements:
       - Components
       - Templates
       - Paid
-  - name: Neo Brutalism UI Library
+  - id: "11"
+    name: Neo Brutalism UI Library
     description: Figma-style brutalist UI kit.
     link: https://neo-brutalism-ui-library.vercel.app
     tags:
@@ -96,7 +107,8 @@ elements:
       - Brutalism
       - UI Kit
     group: Html
-  - name: 'WhiteUI: Bruddle'
+  - id: "12"
+    name: 'WhiteUI: Bruddle'
     description: Premium UI kit and templates.
     link: https://www.whiteui.store/bruddle?srsltid=AfmBOopHnOOB8_zJPT1MO_9bsHesF6r4m-AKs4zYlaEeH3PROWs_-flJ
     tags:
@@ -104,13 +116,15 @@ elements:
       - UI Kit
       - Paid
     group: Ui
-  - name: UI Libraries Roundup (YouTube)
+  - id: "13"
+    name: UI Libraries Roundup (YouTube)
     description: Video featuring OriginUI, MVPBlocks, SHSF UI, Kibo UI, and Skiper UI.
     link: https://www.youtube.com/watch?v=kh-QOXuwywg
     tags:
       - YouTube
       - Overview
-  - name: Vercel AI Elements
+  - id: "14"
+    name: Vercel AI Elements
     description: AI UI components and patterns.
     link: https://vercel.com/changelog/introducing-ai-elements
     tags:
@@ -118,7 +132,8 @@ elements:
       - Components
       - React
     group: React
-  - name: Motion Primitives
+  - id: "15"
+    name: Motion Primitives
     description: Composable motion and UI primitives.
     link: https://motion-primitives.com
     tags:
@@ -126,28 +141,32 @@ elements:
       - Primitives
       - React
     group: React
-  - name: 'Tailwind CSS: UI Kit (Plus)'
+  - id: "16"
+    name: 'Tailwind CSS: UI Kit (Plus)'
     description: Themeable headless UI kit from Tailwind.
     link: https://tailwindcss.com/plus/ui-kit
     tags:
       - Tailwind
       - Headless
       - Primitives
-  - name: Animations.dev
+  - id: "17"
+    name: Animations.dev
     description: Web animations course.
     link: https://animations.dev
     tags:
       - Animation
       - Course
     group: Utilities
-  - name: 'Hover.dev: Buttons'
+  - id: "18"
+    name: 'Hover.dev: Buttons'
     description: Animated button components.
     link: https://www.hover.dev/components/buttons
     tags:
       - Animation
       - Buttons
       - Components
-  - name: OpenStatus Template
+  - id: "19"
+    name: OpenStatus Template
     description: Status page template and UI parts.
     link: https://template.openstatus.dev
     tags:
@@ -155,7 +174,8 @@ elements:
       - Components
       - Status
       - Shadcn
-  - name: NativeWind UI
+  - id: "20"
+    name: NativeWind UI
     description: UI components for React Native + Tailwind.
     notes: |-
       Hello. We are testing this $x = y$.\
@@ -168,14 +188,16 @@ elements:
       - Tailwind
       - Components
     group: React Native
-  - name: React Native Reusables
+  - id: "21"
+    name: React Native Reusables
     description: Reusable UI components for React Native.
     link: https://www.reactnativereusables.com/getting-started/introduction/
     tags:
       - React Native
       - Components
     group: React Native
-  - name: gluestack UI
+  - id: "22"
+    name: gluestack UI
     description: Cross-platform React Native and Web UI components.
     link: https://gluestack.io
     tags:
@@ -184,7 +206,8 @@ elements:
       - Components
       - Design System
     group: React Native
-  - name: NativeWind
+  - id: "23"
+    name: NativeWind
     description: Tailwind CSS for React Native.
     link: https://www.nativewind.dev
     tags:
@@ -192,7 +215,8 @@ elements:
       - Tailwind
       - Styling
     group: React Native
-  - name: Tamagui
+  - id: "24"
+    name: Tamagui
     description: Cross-platform React Native + Web UI kit.
     link: https://tamagui.dev
     tags:
@@ -201,7 +225,8 @@ elements:
       - UI Kit
       - Styling
     group: React Native
-  - name: React Native Paper
+  - id: "25"
+    name: React Native Paper
     description: Material Design components for React Native.
     link: https://reactnativepaper.com
     tags:
@@ -209,7 +234,8 @@ elements:
       - Material
       - Components
     group: React Native
-  - name: React Native Elements
+  - id: "26"
+    name: React Native Elements
     description: Cross-platform React Native UI toolkit.
     link: https://reactnativeelements.com
     tags:
@@ -217,14 +243,16 @@ elements:
       - Components
       - UI Kit
     group: React Native
-  - name: Unistyles
+  - id: "27"
+    name: Unistyles
     description: Styling system for React Native.
     link: https://www.unistyl.es
     tags:
       - React Native
       - Styling
     group: React Native
-  - name: Legend State
+  - id: "28"
+    name: Legend State
     description: Local-first state management for React and React Native.
     notes: ''
     link: https://github.com/LegendApp/legend-state
@@ -235,7 +263,8 @@ elements:
       - Local-first
       - Open Source
     group: Utilities
-  - name: React Native Tools (YouTube)
+  - id: "29"
+    name: React Native Tools (YouTube)
     description: Overview of UI, testing, and tooling for React Native.
     link: https://www.youtube.com/watch?v=I_J7N0n5YPs&t=19s
     tags:
@@ -243,28 +272,32 @@ elements:
       - YouTube
       - Tools
     group: React Native
-  - name: PatternCraft
+  - id: "30"
+    name: PatternCraft
     description: Pattern generator for backgrounds.
     link: https://patterncraft.fun
     tags:
       - Design
       - Patterns
     group: Utilities
-  - name: Radix Example Sites
+  - id: "31"
+    name: Radix Example Sites
     description: A list of example websites built with radix ui theme.
     notes: Good for inspiration.
     link: https://godly.website/websites/radix-ui
     tags:
       - radix-ui
       - radix
-  - name: AI Chat UI
+  - id: "32"
+    name: AI Chat UI
     description: A collection of components for AI Chat assistants.
     notes: ''
     link: https://www.assistant-ui.com/
     tags:
       - Pro
       - Web
-  - name: Shadcn Block Collections
+  - id: "33"
+    name: Shadcn Block Collections
     description: I discovered it while searching for a Before / After image component.
     notes: ''
     link: https://www.twblocks.com/blocks
@@ -273,7 +306,8 @@ elements:
       - Blocks
       - Tailwind
       - Shadcn
-  - name: Shadcn Like Components
+  - id: "34"
+    name: Shadcn Like Components
     description: Shadcn based components.
     notes: ''
     link: https://www.shadcn.io/components/image/image-crop
@@ -283,7 +317,8 @@ elements:
       - Tailwind
       - Shadcn
     group: React
-  - name: TweakCN
+  - id: "35"
+    name: TweakCN
     description: A collection of shadcn themes that are all customizable.
     notes: abcdef persistance ?
     link: https://tweakcn.com/
@@ -293,7 +328,8 @@ elements:
       - Tailwind
       - Web
     group: React
-  - name: ElevenLabs Audio Components
+  - id: "36"
+    name: ElevenLabs Audio Components
     description: ''
     notes: ''
     link: https://ui.elevenlabs.io/docs/setup
@@ -302,7 +338,8 @@ elements:
       - Shadcn
       - Component
     group: React
-  - name: Data Grid
+  - id: "37"
+    name: Data Grid
     description: Editable data grid using shadcn and tanstack-table.
     notes: dsqdqs
     link: https://www.diceui.com/docs/components/data-grid
@@ -311,7 +348,8 @@ elements:
       - React
       - Shadcn
     group: React
-  - name: Text Effects
+  - id: "38"
+    name: Text Effects
     description: A collection of text effects components, shadcn like.
     notes: ''
     link: https://www.shadcn.io/text/flip-words
@@ -320,7 +358,8 @@ elements:
       - Component
       - Shadcn
     group: React
-  - name: Oxbowui
+  - id: "39"
+    name: Oxbowui
     description: A collection of pages, templates and blocks.
     notes: ''
     link: https://oxbowui.com/
