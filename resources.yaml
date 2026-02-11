@@ -2,7 +2,7 @@ title: Awesome UI
 description: My personal collection of UI resources, libraries and tools.
 author: Nadir KICHOU
 elements:
-  - id: "1",
+  - id: "1"
     name: Cult UI
     description: Tailwind components and pro UI sections.
     notes: ''
