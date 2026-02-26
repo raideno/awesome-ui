@@ -376,5 +376,15 @@ elements:
     link: https://www.reacticx.com/docs/components/chroma-ring
     tags: []
     group: React Native
+  - id: '69435819'
+    name: Monochrome
+    description: An HTML first ui library, very clean and minimalstic and accessible.
+    notes: ''
+    link: https://monochrome.sh/docs
+    tags:
+      - Web
+      - Html
+      - Frre
+    group: Html
 links:
   - https://raideno.xyz
