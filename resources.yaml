@@ -386,5 +386,15 @@ elements:
       - Html
       - Frre
     group: Html
+  - id: '33442779'
+    name: UI Primitives
+    description: Radix ui alternative used by opencode.
+    notes: ''
+    link: https://kobalte.dev/docs/core/overview/introduction
+    tags:
+      - React
+      - Components
+      - Radix Alternative
+    group: React
 links:
   - https://raideno.xyz
