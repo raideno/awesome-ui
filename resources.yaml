@@ -396,5 +396,15 @@ elements:
       - Components
       - Radix Alternative
     group: React
+  - id: '20239783'
+    name: Rust GPUI Components
+    description: A shadcn like registry of components for gpui.
+    notes: ''
+    link: https://longbridge.github.io/gpui-component/
+    tags:
+      - Desktop
+      - Rust
+      - Components
+    group: Desktop
 links:
   - https://raideno.xyz
