@@ -406,5 +406,16 @@ elements:
       - Rust
       - Components
     group: Desktop
+  - id: '83035347'
+    name: Desktop, Mobile & Web Rust GUI Framework
+    description: Multi plateform rust gui framework.
+    notes: ''
+    link: https://github.com/dioxuslabs/dioxus
+    tags:
+      - Desktop
+      - Mobile
+      - Web
+      - Rust
+    group: Desktop
 links:
   - https://raideno.xyz
