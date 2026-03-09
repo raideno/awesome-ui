@@ -17,9 +17,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: build awesome website
-        uses: raideno/awesome-website@v0.2.3
+        uses: raideno/awesome-website@feat/add-plugins
         with:
-          # Formatted according to the structure specified below
+          ref: "feat/add-plugins"
           yaml-path: "resources.yaml"
 
       - name: upload build artifact
