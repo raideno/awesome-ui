@@ -19,6 +19,7 @@ jobs:
       - name: build awesome website
         uses: raideno/awesome-website@feat/add-plugins
         with:
+          ref: "feat/add-plugins"
           yaml-path: "resources.yaml"
 
       - name: upload build artifact
